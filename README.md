@@ -12,3 +12,6 @@ Hello Everyone!
 
 4/30/2025
 I am currently working with my wife to launch a website that helps new Christians understand their faith and guide them on recommended steps to take after receiving Jesus as their Lord and Savior.
+
+5/15/2025
+Began the Odin Project
